@@ -1,4 +1,4 @@
-package Q7;
+package Day2.Q7;
 import java.util.Scanner;
 public class product { 
     public static void main(String[] args) {

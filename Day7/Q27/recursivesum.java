@@ -15,4 +15,4 @@ public class recursivesum {
         }
         return (n % 10) + sumOfDigits(n / 10);
     }
-}   
+}    

@@ -1,8 +1,4 @@
-package Day10.Q37;
-
-import java.util.Scanner;
-
-public class Star {
+public class Main {
     public static void main(String[] args) {
         int n = 5;
 

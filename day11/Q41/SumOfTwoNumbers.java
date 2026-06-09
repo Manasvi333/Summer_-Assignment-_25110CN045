@@ -8,8 +8,7 @@ public class SumOfTwoNumbers {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
+        Scanner sc = new Scanner(System.in);    
         System.out.print("Enter first number: ");
         int num1 = sc.nextInt();
 
@@ -17,7 +16,6 @@ public class SumOfTwoNumbers {
         int num2 = sc.nextInt();
 
         int result = sum(num1, num2);
-
         System.out.println("Sum = " + result);
 
         sc.close();

@@ -1,4 +1,4 @@
-package day11.Q41;
+package Day11.Q41;
 import java.util.Scanner;
 
 public class SumOfTwoNumbers {

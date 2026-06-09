@@ -1,4 +1,4 @@
-package day11.Q42;
+package Day11.Q42;
 import java.util.Scanner;
 
 public class MaxFunction {

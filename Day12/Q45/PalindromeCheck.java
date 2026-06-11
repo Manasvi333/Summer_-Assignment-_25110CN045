@@ -1,4 +1,4 @@
-package Day12.Q45;
+package day12.Q45;
 import java.util.Scanner;
 
 public class PalindromeCheck {
